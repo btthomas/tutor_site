@@ -1,0 +1,11 @@
+{
+  "abc": "def",
+  "globals": {
+    "title": "Thomas Math Tutoring",
+    "price": [{"sub": "Algebra/Geometry", "cost":"50"},
+               {"sub": "Algebra II/Precalc", "cost":"60"},
+               {"sub": "AP Calculus", "cost":"70"},
+               {"sub": "TJHSST Test Prep", "cost":"70"},
+               {"sub": "Contact us for further tutoring needs"}]
+    }
+}
